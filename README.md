@@ -1,26 +1,26 @@
+# Calendario de actividades de Rotaract
 
-# FullCalendar Webpack Example
+Editar /src/example.js para aumentar actividades
 
-This is a fully-buildable example project for FullCalendar and [Webpack].
+Usa FullCalendar y [Webpack].
 
-
-## Installation
+## Instalación
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-example-projects.git
-cd fullcalendar-example-projects/webpack
+git clone https://github.com/Melky92/CalendarioRotaract.git
+cd CalendarioRotaract
 npm install
 ```
 
-## Build Commands
+## Opciones para compilar el proyecto
 
 ```bash
 npm run build
-npm run watch # continously build
-npm run clean # start fresh
+npm run watch # para actualizar cambios en tiempo real
+npm run clean # empezar de nuevo
 ```
 
-After running `build` or `watch`, open up `index.html` in a browser.
+Después de correr build o watch, abrir index.html
 
 
 [Webpack]: https://webpack.js.org/
