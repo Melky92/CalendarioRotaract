@@ -1,6 +1,26 @@
 
-# FullCalendar Example Projects
+# FullCalendar Webpack Example
 
-A collection of simple example projects to show how to use FullCalendar with various build setups.
+This is a fully-buildable example project for FullCalendar and [Webpack].
 
-Please read the README in each project subdirectory.
+
+## Installation
+
+```bash
+git clone https://github.com/fullcalendar/fullcalendar-example-projects.git
+cd fullcalendar-example-projects/webpack
+npm install
+```
+
+## Build Commands
+
+```bash
+npm run build
+npm run watch # continously build
+npm run clean # start fresh
+```
+
+After running `build` or `watch`, open up `index.html` in a browser.
+
+
+[Webpack]: https://webpack.js.org/
